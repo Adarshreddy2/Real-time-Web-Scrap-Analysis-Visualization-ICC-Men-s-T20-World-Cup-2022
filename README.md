@@ -17,3 +17,5 @@ Using Power BI, these insights are brought to life with interactive dashboards, 
 
 -Dashboard Visualization:Built a Power BI dashboard analyzing player performances and created an optimal XI capable of scoring 180+ and defending 150 in T20 matches.
 
+![Dashboard Preview]()
+
