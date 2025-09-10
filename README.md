@@ -17,5 +17,5 @@ Using Power BI, these insights are brought to life with interactive dashboards, 
 
 -Dashboard Visualization:Built a Power BI dashboard analyzing player performances and created an optimal XI capable of scoring 180+ and defending 150 in T20 matches.
 
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/Adarshreddy2/Real-time-Web-Scrap-Analysis-Visualization-ICC-Men-s-T20-World-Cup-2022/blob/main/Images/Cricket_Dashboard_image1.png)
 
